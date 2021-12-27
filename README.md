@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on Front-End, Back-End, Mobile projects using Ionic, Angular and NodeJS.
 - 🌱 I’m currently learning React.
-- 😄 Pronouns: him/his
-- ⚡ Fun facts: I'm an adventure 80's movies fan...
+- ⚡ Fun facts: I'm a big fan of 80's adventure movies.
 
 <div align="center">
   <a href="https://github.com/notreniev">
