@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Front-End, Back-End, Mobile projects using Ionic, Angular and NodeJS.
 - 🌱 I’m currently learning React.
-- ⚡ Fun facts: I'm a big fan of 80's adventure movies.
+- ⚡ Fun facts: I'm a big fan of 80's adventure movies such as Indiana Jones, ET, Star Wars, Back to the Future, etc...
 
 <div align="center">
   <a href="https://github.com/notreniev">
