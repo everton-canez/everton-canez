@@ -36,7 +36,15 @@
 
   <img align="center" alt="Typesript" title="Typesript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
+  <img align="center" alt="Docker" title="Docker" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  
+  <img align="center" alt="Express" title="Express" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  
   <img align="center" alt="ReactJS" title="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
+  <img align="center" alt="NPM" title="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  
+  <img align="center" alt="VSCODE" title="VSCODE" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
   
 ##
