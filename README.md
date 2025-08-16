@@ -12,6 +12,15 @@
 </div>
 
 <div style="width: 50%; display: flex; justify-content: space-evenly; align-items: center; padding: 2em 0">
+
+  <img
+    align="center"
+    alt="Angular"
+    title="Angular"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/angular/angular-original.svg"
+  />
   <img
     align="center"
     alt="HTML"
@@ -142,8 +151,8 @@
   />
   <img
     align="center"
-    alt="VSCODE"
-    title="VSCODE"
+    alt="VSCode"
+    title="VSCode"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
