@@ -32,7 +32,7 @@
 
   <img align="center" alt="MySql" title="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-  <img align="center" alt="NestJS" title="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" alt="NestJS" title="NestJS" height="30" width="40" src="https://nestjs.com/img/logo-small.svg" />
 
   <img align="center" alt="NodeJS" title="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
@@ -43,6 +43,8 @@
   <img align="center" alt="NPM" title="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   
 <img align="center" alt="VSCODE" title="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<img align="center" alt="Python" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.png" />
   
 </div>
   
