@@ -7,8 +7,8 @@
 - ⚡ Fun facts: I'm a big fan of 80's adventure movies such as Indiana Jones, ET, Star Wars, Back to the Future, etc...
 
 <div style="width: 50%; display: flex;justify-content: space-evenly;align-items: center;padding: 2em 0">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=notreniev&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notreniev&layout=compact&langs_count=7&theme=merko" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=everton-canez&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-canez&layout=compact&langs_count=7&theme=merko" />
 </div>
 
 <div style="width: 50%; display: flex; justify-content: space-evenly; align-items: center; padding: 2em 0">
