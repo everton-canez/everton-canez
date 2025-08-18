@@ -10,9 +10,8 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=everton-canez&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-canez&layout=compact&langs_count=7&theme=merko" />
 </div>
-
-<div style="width: 50%; display: flex; justify-content: space-evenly; align-items: center; padding: 2em 0">
-
+<br /> 
+<div>
   <img
     align="center"
     alt="Angular"
@@ -179,8 +178,7 @@
 <div>
   <a href="https://www.linkedin.com/in/everton-canez" target="_blank">
     <img
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank" />
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
